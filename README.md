@@ -143,3 +143,9 @@ Adicione também as docstrings da função.
 **Exercício 111**: Crie um pacote chamado UtilidadesCeV que tenha dois módulos internos chamados moeda e dado. Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
 
 **Exercício 112**: Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(). mas com uma validação de dados para aceitar apenas valores que sejam monetários.
+
+**Exercício 113**: Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
+
+**Exercício 114**: Crie um código que teste se o site Pudim.com.br está acessivel pelo computador usado.
+
+**Exercício 115**: Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples. O sistema só vai ter 2 opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.
